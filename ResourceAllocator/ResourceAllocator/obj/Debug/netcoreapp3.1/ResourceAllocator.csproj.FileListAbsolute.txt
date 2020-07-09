@@ -1,0 +1,15 @@
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.exe
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.deps.json
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.runtimeconfig.json
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.runtimeconfig.dev.json
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.dll
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\ResourceAllocator.pdb
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.csprojAssemblyReference.cache
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.AssemblyInfoInputs.cache
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.AssemblyInfo.cs
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.dll
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.pdb
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.genruntimeconfig.cache
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.csproj.CoreCompileInputs.cache
+C:\Users\ranji\source\repos\Techtinium\ResourceAllocator\ResourceAllocator\obj\Debug\netcoreapp3.1\ResourceAllocator.csproj.CopyComplete
